@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "shippingCompany": "Normal",
+        "shippingType": "Normal"
+    },
+    {
+        "id": 2,
+        "shippingCompany": "Expressa",
+        "shippingType": "Expressa"
+    },
+    {
+        "id": 3,
+        "shippingCompany": "Econômica",
+        "shippingType": "Econômica"
+    },
+    {
+        "id": 4,
+        "shippingCompany": "Garantida",
+        "shippingType": "Entrega Garantida"
+    },
+    {
+        "id": 5,
+        "shippingCompany": "Agendada",
+        "shippingType": "Entrega Agendada"
+    },
+    {
+        "id": 6,
+        "shippingCompany": "Entrega Expressa",
+        "shippingType": "Entrega Expressa"
+    },
+    {
+        "id": 7,
+        "shippingCompany": "Retira",
+        "shippingType": "Retira"
+    },
+    {
+        "id": 8,
+        "shippingCompany": "Redespacho",
+        "shippingType": "Redespacho"
+    },
+    {
+        "id": 9,
+        "shippingCompany": "Postagem",
+        "shippingType": "Postagem"
+    },
+    {
+        "id": 10,
+        "shippingCompany": "Super Expressa",
+        "shippingType": "Super Expressa"
+    },
+    {
+        "id": 11,
+        "shippingCompany": "Entrega Plus",
+        "shippingType": "Entrega Plus"
+    },
+    {
+        "id": 12,
+        "shippingCompany": "Retira Rápido",
+        "shippingType": "Retira Rápido"
+    },
+    {
+        "id": 13,
+        "shippingCompany": "EntB2B",
+        "shippingType": "Entrega B2B"
+    },
+    {
+        "id": 14,
+        "shippingCompany": "LogEPeg",
+        "shippingType": "Log & Peg"
+    },
+    {
+        "id": 15,
+        "shippingCompany": "Coleta",
+        "shippingType": "Coleta"
+    },
+    {
+        "id": 16,
+        "shippingCompany": "Pedido Interno",
+        "shippingType": "Pedido Interno"
+    },
+    {
+        "id": 17,
+        "shippingCompany": "Insucesso de entrega",
+        "shippingType": "Insucesso de entrega"
+    },
+    {
+        "id": 19,
+        "shippingCompany": "Roubo/Extravio",
+        "shippingType": "Quando houve um roubo ou extravio dos itens"
+    },
+    {
+        "id": 20,
+        "shippingCompany": "Reversa Retira em Loja",
+        "shippingType": "Reversa Retira em Loja"
+    },
+    {
+        "id": 21,
+        "shippingCompany": "Agendada",
+        "shippingType": "Entrega Agendada MarketPlace"
+    },
+    {
+        "id": 22,
+        "shippingCompany": "Agendada LN",
+        "shippingType": "Entrega Agendada MarketPlace LN"
+    },
+    {
+        "id": 23,
+        "shippingCompany": "Verde",
+        "shippingType": "Verde"
+    },
+    {
+        "id": 24,
+        "shippingCompany": "Lockers",
+        "shippingType": "Retira Rápido"
+    },
+    {
+        "id": 25,
+        "shippingCompany": "Correios",
+        "shippingType": "Retira Rápido"
+    },
+    {
+        "id": 26,
+        "shippingCompany": "Entrega em 1h",
+        "shippingType": "Entrega em 1h"
+    },
+    {
+        "id": 27,
+        "shippingCompany": "Retira Jadlog",
+        "shippingType": "Retira Jadlog"
+    },
+    {
+        "id": 28,
+        "shippingCompany": "Carga Fechada",
+        "shippingType": "Carga Fechada"
+    },
+    {
+        "id": 29,
+        "shippingCompany": "Carga Fechada Cotação",
+        "shippingType": "Carga Fechada Cotação"
+    }
+]
